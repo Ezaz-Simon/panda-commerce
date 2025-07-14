@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.navbar{
+    max-width: 1280px;
+    margin: auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.search input{
+ background-color:rgb(241, 241, 241) ; 
+ border-radius: 64px;  
+ padding: 15px 30px;
+ width: 500px;
+ border: none;
+ }
+ .nav-icons{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+     }
+ .nav-icons li a{
+    text-decoration: none;
+    color: #707070;
+ }
