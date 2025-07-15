@@ -18,6 +18,8 @@
     max-width: 1280px;
     margin: auto;
 }
+
+
 nav{
     display: flex; 
     justify-content: space-between;
@@ -102,6 +104,5 @@ color: white;
 }
 .card3{
     background: linear-gradient(170.38deg, rgb(66, 137, 255) 15.416%,rgb(63, 7, 248) 74.29%);
-    
 
 }
