@@ -106,3 +106,40 @@ color: white;
     background: linear-gradient(170.38deg, rgb(66, 137, 255) 15.416%,rgb(63, 7, 248) 74.29%);
 
 }
+ /* shoes section */
+ 
+
+ .shoes-bag{
+     background:#F4F4F4;
+ }
+.shoe-section{
+   
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.shoe-card-container{
+    display: flex;
+    justify-content:space-between;
+    gap: 15px;
+}
+.shoe-card{
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 25px;
+}
+.card-price{
+    display: block;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.shoe-card img{
+    width: 336pxs;
+    height: 202px;
+}
+.shoe-card .panda-btn{
+    background: black;
+}
