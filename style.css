@@ -143,3 +143,14 @@ color: white;
 .shoe-card .panda-btn{
     background: black;
 }
+
+/* footer */
+.contect-us{
+    background-color:#FFF2F1 ;
+    text-align: center;
+    padding: 25px 15px;
+}
+.contact-btn-parent input{  
+      border: none;
+      padding: 15px 152px;
+}
